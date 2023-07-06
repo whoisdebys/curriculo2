@@ -3,9 +3,9 @@
 # Site Settings
 
 # SEO plugin
-title: My Resume
-author: Steve Doe
-tagline: Full Stack Developer # Short description for jekyll-seo-tag
+title: Meu Resumo
+author: Débora Oliveira
+tagline: Estudante # Short description for jekyll-seo-tag
 description: A beautiful Jekyll theme for creating resume # Longer description for jekyll-seo-tag
 
 url: "https://fculpo.github.io"
